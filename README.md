@@ -11,5 +11,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngocminhvn&show_icons=true&locale=en&layout=compact" alt="ngocminhvn" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ngocminhvn&show_icons=true&locale=en" alt="ngocminhvn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ngocminhvn&show_icons=true&locale=en" alt="ngocminhvn" /></p>
 
