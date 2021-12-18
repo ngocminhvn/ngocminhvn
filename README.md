@@ -1,7 +1,7 @@
 <h1 align = "center"> Xin chào 👋, tôi là Trịnh Ngọc Minh </h1>
 <h3 align = "center"> Một thằng co đe gà đến từ Việt Nam </h3>
 
-- 📝 Tôi thường xuyên viết bài trên [www.trinhngocminh.com]
+- 📝 Tôi thường xuyên viết bài trên www.trinhngocminh.com
 
 - 📫 Làm sao để liên hệ với tôi **we@trinhngocminh.com**
 
