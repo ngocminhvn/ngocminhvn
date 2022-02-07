@@ -8,7 +8,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ngocminhvn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ngocminhvn" /></a></p><br><br>
 
-<p><img nsrc="https://github-readme-stats.vercel.app/api/top-langs?username=ngocminhvn&show_icons=true&locale=en&layout=compact" alt="ngocminhvn" /></p>
+<p><img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngocminhvn&show_icons=true&locale=en&layout=compact" alt="ngocminhvn" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ngocminhvn&show_icons=true&locale=en" alt="ngocminhvn" /></p>
+<p><img align = "center" src="https://github-readme-stats.vercel.app/api?username=ngocminhvn&show_icons=true&locale=en" alt="ngocminhvn" /></p>
 
