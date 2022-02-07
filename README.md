@@ -1,7 +1,7 @@
 ```C#
-namespace TNT
+namespace vn
 {
-    class ngoctienTNT
+    class ngocminhvn
     {
         static void Main(string[] args)
         {
