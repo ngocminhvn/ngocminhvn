@@ -1,10 +1,10 @@
-```C#
+```Javascript
         {
             const Name = "Trịnh Ngọc Minh";
-            string nickname = "ngocminhvn";
-            string Age = "200X";
-            string Gender = "Male";
-            string Address = "Thái Nguyên, Việt Nam";
-            string Skills = "HTML, Python, Javascript, CSS";
+            const nickname = "ngocminhvn";
+            const Age = "200X";
+            const Gender = "Male";
+            const Address = "Thái Nguyên, Việt Nam";
+            const Skills = "HTML, Python, Javascript, CSS";
         }
 ```
