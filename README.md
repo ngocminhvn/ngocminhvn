@@ -1,10 +1,10 @@
 ```Javascript
-        {
-            const Name = "Trịnh Ngọc Minh";
-            const nickname = "ngocminhvn";
-            const Age = "200X";
-            const Gender = "Male";
-            const Address = "Thái Nguyên, Việt Nam";
-            const Skills = "HTML, Python, Javascript, CSS";
-        }
+   var NgocMinhVn = 
+	[
+	"Name: Trinh Ngoc Minh",
+	"Age: 16",
+	"Gender: Male",
+	"Address: Thai Nguyen, Viet Nam",
+	"Skills: HTML, CSS, JS, PYTHON"
+	];
 ```
